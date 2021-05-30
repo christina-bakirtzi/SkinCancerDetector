@@ -11,10 +11,10 @@ Ngrok: https://ngrok.com/
 
 #### SETUP
 For Server:
-Go to server folder and run server.py .
-Download & install Ngrok: https://ngrok.com/ .
-On ngrok cmd, type command ngrok http http://localhost:8000
-Replace the corresponding address in file SkinCancerDetector\app\src\main\java\com\cancer_detector\managers\AppConfig.java (under //TODO)
-Run on device (:
+* Go to server folder and run server.py .
+* Download & install Ngrok: https://ngrok.com/ .
+* On ngrok cmd, type command ngrok http http://localhost:8000
+* Replace the corresponding address in file SkinCancerDetector\app\src\main\java\com\cancer_detector\managers\AppConfig.java (under //TODO)
+* Run on device not emulator for the camera to work(:
 
 Project Report in greek!
