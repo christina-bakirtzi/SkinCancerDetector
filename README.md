@@ -1,4 +1,4 @@
-# SkinCancerDetector
+# SkinCancerDetector - "Scancer"
 ### Project for ECE NTUA "Mobile and electronic health technologies".
 ### !NOT to be used for medical purposes
 
