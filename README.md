@@ -11,7 +11,7 @@ Ngrok: https://ngrok.com/
 
 #### SETUP
 For Server:
-* Go to server folder and run server.py .
+* Go to server folder and run server.py (using python Flask).
 * Download & install Ngrok: https://ngrok.com/ .
 * On ngrok cmd, type command ngrok http http://localhost:8000
 * Replace the corresponding address in file SkinCancerDetector\app\src\main\java\com\cancer_detector\managers\AppConfig.java (under //TODO)
