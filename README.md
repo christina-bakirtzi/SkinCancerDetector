@@ -22,4 +22,4 @@ For Server:
 <a href="https://ibb.co/q7LSgkD"><img src="https://i.ibb.co/ckKB8Dy/Screenshot-20210530-004945-Scancer.jpg" alt="Screenshot-20210530-004945-Scancer" border="0" width="180"></a>
 <a href="https://ibb.co/sC0cJnQ"><img src="https://i.ibb.co/gd5QFNw/Screenshot-20210530-005014-Scancer.jpg" alt="Screenshot-20210530-005014-Scancer" border="0" width="180"></a>
 
-Project Report in Greek: "Project_FINAL.pdf"
+Full project *Report* in Greek: "Project_FINAL.pdf"
