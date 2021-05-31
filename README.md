@@ -1,3 +1,4 @@
+
 # SkinCancerDetector - "Scancer"
 ### Project for ECE NTUA "Mobile and electronic health technologies".
 ### !NOT to be used for medical purposes
@@ -22,5 +23,9 @@ For Server:
 <a href="https://ibb.co/TmTNsPn"><img src="https://i.ibb.co/pJPkS4s/Screenshot-20210530-004902-Android-System.jpg" alt="Screenshot-20210530-004902-Android-System" border="0" width="180"></a>
 <a href="https://ibb.co/q7LSgkD"><img src="https://i.ibb.co/ckKB8Dy/Screenshot-20210530-004945-Scancer.jpg" alt="Screenshot-20210530-004945-Scancer" border="0" width="180"></a>
 <a href="https://ibb.co/sC0cJnQ"><img src="https://i.ibb.co/gd5QFNw/Screenshot-20210530-005014-Scancer.jpg" alt="Screenshot-20210530-005014-Scancer" border="0" width="180"></a>
+
+
+https://user-images.githubusercontent.com/57402023/120197304-7ce8a080-c229-11eb-9035-0ccefaf82a0a.mp4
+
 
 Full project *Report* in Greek: "Project_FINAL.pdf"
