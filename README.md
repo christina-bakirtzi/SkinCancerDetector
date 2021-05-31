@@ -8,7 +8,7 @@ Using ML model from : https://github.com/hasibzunair/adversarial-lesions-rest-ap
 
 
 
-Ngrok: https://ngrok.com/
+
 
 #### SETUP
 For Server:
@@ -16,7 +16,7 @@ For Server:
 * Download & install Ngrok: https://ngrok.com/ .
 * On ngrok cmd, type command ngrok http http://localhost:8000
 * Replace the corresponding address in file SkinCancerDetector\app\src\main\java\com\cancer_detector\managers\AppConfig.java (under //TODO)
-* Run on device not emulator for the camera to work (:
+* Run app on device not emulator for the camera to work (:
 
 <a href="https://ibb.co/XWCbX1k"><img src="https://i.ibb.co/JcsKnVF/Screenshot-20210530-004857-Scancer.jpg" alt="Screenshot-20210530-004857-Scancer" border="0"  width="180"></a>
 <a href="https://ibb.co/TmTNsPn"><img src="https://i.ibb.co/pJPkS4s/Screenshot-20210530-004902-Android-System.jpg" alt="Screenshot-20210530-004902-Android-System" border="0" width="180"></a>
